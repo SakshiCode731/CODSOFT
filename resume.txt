@@ -1,0 +1,27 @@
+Sakshi
+Full-Stack Developer
+
+Email: gautamsakshi166@gmail.com
+LinkedIn: https://www.linkedin.com/in/sakshi-gautam-9317292b9/
+GitHub: https://github.com/SakshiCode731
+
+Summary
+- Front-end developer building responsive websites using HTML and CSS.
+- Strong focus on polished interfaces, animations, and user-friendly layouts.
+
+Skills
+- HTML5, CSS3
+- Responsive design
+- Animation & transitions
+- Layout with CSS Grid and Flexbox
+- Visual design and typography
+
+Experience
+- Built portfolio and landing page interfaces with mobile-first design.
+- Created clean, accessible web pages for personal and client projects.
+
+Education
+- Web design and development coursework
+
+Contact
+Email: youremail@example.com
